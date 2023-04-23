@@ -24,6 +24,19 @@
 
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 
-I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a QA Engineer | Test Engineers <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+I am engaged in the preparation of test documentation, manual testing, test automation.
+I have been studying on my own for about a year now.
+
+
+---
+
+### Languages and Tools :
+
+
+Writing Test Cases
+Executing Test Cases
+Logging Defects

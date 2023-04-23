@@ -15,6 +15,15 @@
 <div id="hey" align="center">
   <h1>
     Hey there!
-    <img src="https://media.giphy.com/media/9cZQnwdzUXTDG/giphy.gif" width="50px"/>
   </h1>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="500"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+
+I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.

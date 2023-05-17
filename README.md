@@ -28,6 +28,7 @@
 
 I am a QA Engineer
 I am creating test artifacts. Manual testing, test automation.
+CV - 
 
 ---
 

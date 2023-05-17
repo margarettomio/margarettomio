@@ -26,11 +26,10 @@
 
 ### About Me :
 
-I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-I am engaged in the preparation of test documentation, manual testing, test automation.
+I am a QA Engineer
+I am creating test artifacts. Manual testing, test automation.
 
 ---
 
-### Languages and Tools :
+### Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :
 

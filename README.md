@@ -28,6 +28,8 @@
 
 <div aboutme ="center">
   <p1> I am a QA Engineer. </p1>
+</div>
+<div abouttest ="center">
   <p1> I am creating test artifacts. Manual testing, test automation. </p1>
 </div>
 

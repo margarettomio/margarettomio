@@ -27,10 +27,10 @@
 ### About Me :
 
 <div aboutme ="center">
-  <h1>
+  <p1>
     I am a QA Engineer.
     I am creating test artifacts. Manual testing, test automation.
-  </h1>
+  <p1>
 </div>
 
 <a href="https://drive.google.com/file/d/1L3EbjnccZUDQid3LNuv0v4_n9Eh3i6Pd/view?usp=share_link"> My CV (pdf on google drive) </a>

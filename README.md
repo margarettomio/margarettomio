@@ -38,11 +38,11 @@
 </div>
 
 <div id="cv rus">
-  <a href="https://drive.google.com/file/d/1ieaU6Mv68fSyWEk1nw9wAvRoFAgoNeu1/view?usp=share_link"> My CV in Russion (pdf on google drive) </a>
+  <a href="https://drive.google.com/file/d/1ieaU6Mv68fSyWEk1nw9wAvRoFAgoNeu1/view?usp=share_link"> CV in Russion (pdf on google drive) </a>
 </div>
 
 <div id="cv eng">
-  <a href="https://drive.google.com/file/d/1NnZXf9lEwa-C1kAdToXlNBICaNh8Yghy/view?usp=share_link"> My CV in English (pdf on google drive) </a>
+  <a href="https://drive.google.com/file/d/1NnZXf9lEwa-C1kAdToXlNBICaNh8Yghy/view?usp=share_link"> CV in English (pdf on google drive) </a>
 </div>
 
 ---

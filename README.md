@@ -37,8 +37,8 @@
   <p1> I am creating test artifacts. Manual testing, test automation. </p1>
 </div>
 
-<a href="https://drive.google.com/file/d/1L3EbjnccZUDQid3LNuv0v4_n9Eh3i6Pd/view?usp=share_link"> My CV (pdf on google drive) </a>
-
+<a href="https://drive.google.com/file/d/1ieaU6Mv68fSyWEk1nw9wAvRoFAgoNeu1/view?usp=share_link"> My CV in Russion (pdf on google drive) </a>
+<a href="https://drive.google.com/file/d/1NnZXf9lEwa-C1kAdToXlNBICaNh8Yghy/view?usp=share_link"> My CV in English (pdf on google drive) </a>
 ---
 
 ### Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :

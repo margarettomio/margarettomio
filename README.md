@@ -27,7 +27,7 @@
 ### About Me :
 
 <div aboutme ="center">
-  <p1> I am a QA Engineer. </p1>
+  <p1> I am a QA Engineer. And i'm looking for a job </p1>
 </div>
 <div abouttest ="center">
   <p1> I am creating test artifacts. Manual testing, test automation. </p1>

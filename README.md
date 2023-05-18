@@ -6,6 +6,10 @@
   <a href="https://career.habr.com/margarita_sharkevich">
     <img src="https://img.shields.io/badge/Habr-grey?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
+  <a href="https://career.habr.com/margarita_sharkevich">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=habr&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
 </div>
 
 <div id="counter" align="center">

@@ -46,6 +46,9 @@
 
 ### Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :
 
-<div abouttest ="center">
+<div tools ="center">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/C#-black?style=for-the-badge&logo=c#&logoColor=#9a4e95" alt="C# Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
 </div>

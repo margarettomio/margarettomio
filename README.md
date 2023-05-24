@@ -45,11 +45,10 @@
 ---
 
 ### Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :
-https://img.shields.io/badge/c%23-c%23-lightgrey
-https://worldvectorlogo.com/ru/logo/c--4
+file:///C:/Users/user/Downloads/c--4.svg
 <div tools ="center">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c%23&logoColor=violet" alt="C# Badge"/>
-  <img src="https://worldvectorlogo.com/ru/logo/c--4-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
+
+  <img src="file:///C:/Users/user/Downloads/c--4.svg" alt="JavaScript Badge"/>
 </div>

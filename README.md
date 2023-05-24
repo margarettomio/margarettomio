@@ -48,7 +48,7 @@
 https://img.shields.io/badge/c%23-c%23-lightgrey
 <div tools ="center">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c#&logoColor=violet" alt="C# Badge"/>
+  <img src="https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c%23&logoColor=violet" alt="C# Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
 </div>

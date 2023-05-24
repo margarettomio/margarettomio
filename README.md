@@ -47,5 +47,5 @@
 ### Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :
 
 <div abouttest ="center">
-  <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
 </div>

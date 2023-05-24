@@ -46,8 +46,15 @@
 
 ### Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :
 
-<div tools ="center">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/c%23-c%23-blueviolet?style=for-the-badge" alt="c%23 Badge"/>
+<div tools ="center"
+  <img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira&logoColor=blue" alt="Jira Badge"/>
+  <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=orange" alt="Postman Badge"/>
+  <img src="https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=Swagger&logoColor=green" alt="Swagger Badge"/>
+  <img src="https://img.shields.io/badge/Devtools-black?style=for-the-badge&logo=googlechrome&logoColor=#59a1f7" alt="Devtools Badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=lightblue" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/c%23-black?style=for-the-badge" alt="c%23 Badge"/>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellowblue" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/HTML-e54b21?style=for-the-badge&logo=HTML&logoColor=lightblue" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CSS-274de4?style=for-the-badge&logo=CSS&logoColor=lightblue" alt="CSS Badge"/>
 </div>

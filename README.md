@@ -47,7 +47,8 @@
 ### Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :
 
 <div tools ="center"
-  <img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira&logoColor=blue" alt="Jira Badge"/>
+  <img src=lt/>
+  <img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=blue" alt="Jira Badge"/>
   <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=orange" alt="Postman Badge"/>
   <img src="https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=Swagger&logoColor=green" alt="Swagger Badge"/>
   <img src="https://img.shields.io/badge/Devtools-black?style=for-the-badge&logo=googlechrome&logoColor=#59a1f7" alt="Devtools Badge"/>

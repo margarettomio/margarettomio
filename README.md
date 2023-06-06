@@ -30,7 +30,7 @@
 ### About Me :
 
 <div aboutme ="center">
-  <p1> I am a QA Engineer.</p1>
+  <p1>QA Engineer</p1>
 </div>
 
 ---

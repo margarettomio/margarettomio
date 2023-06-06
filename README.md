@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="300"/>
 </div>
 
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://career.habr.com/margarita_sharkevich">
     <img src="https://img.shields.io/badge/Habr-grey?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/margarita-sharkevich">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
+</div> -->
 
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=margarettomio&style=flat-square&color=blue" alt=""/>
